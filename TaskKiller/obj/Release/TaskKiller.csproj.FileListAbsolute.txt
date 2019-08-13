@@ -1,0 +1,10 @@
+C:\workspace\vcsharp\TaskKiller\TaskKiller\bin\Release\TaskKiller.exe
+C:\workspace\vcsharp\TaskKiller\TaskKiller\bin\Release\TaskKiller.pdb
+C:\workspace\vcsharp\TaskKiller\TaskKiller\obj\Release\TaskKiller.csprojAssemblyReference.cache
+C:\workspace\vcsharp\TaskKiller\TaskKiller\obj\Release\TaskKiller.Form1.resources
+C:\workspace\vcsharp\TaskKiller\TaskKiller\obj\Release\TaskKiller.Properties.Resources.resources
+C:\workspace\vcsharp\TaskKiller\TaskKiller\obj\Release\TaskKiller.csproj.GenerateResource.cache
+C:\workspace\vcsharp\TaskKiller\TaskKiller\obj\Release\TaskKiller.csproj.CoreCompileInputs.cache
+C:\workspace\vcsharp\TaskKiller\TaskKiller\obj\Release\TaskKiller.exe
+C:\workspace\vcsharp\TaskKiller\TaskKiller\obj\Release\TaskKiller.pdb
+C:\workspace\vcsharp\TaskKiller\TaskKiller\bin\Release\TaskKiller.exe.config
